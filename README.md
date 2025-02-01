@@ -13,6 +13,18 @@ Implementar um sistema de controle PID para equilibrar uma bolinha sobre uma pla
 - Platafora de papelão e cola quente.
 - Componentes eletrônicos adicionais (fios, resistores, etc.)
 
+## 🖼️ Fotos do Projeto
+
+![Vista Frontal](assets/20241211_165748.jpg)
+![Vista Lateral](assets/20241211_165926.jpg)
+![Detalhes do Sistema](assets/20241211_165734.jpg)
+![Servomotor](assets/20241211_165816.jpg)
+![Sensor ultrassonico](assets/20241211_165812.jpg)
+
+## 🎥 Vídeo Demonstrativo
+
+[![Vídeo do Projeto](https://img.youtube.com/vi/-myj7t524_s/hqdefault.jpg)](https://youtube.com/shorts/-myj7t524_s?si=RU0jZc96KrgZ-HZB)
+
 ## 🧪 Resultados Observados
 
 - O sistema foi capaz de manter a bolinha em posição de equilíbrio, ajustando automaticamente a inclinação da plataforma.
