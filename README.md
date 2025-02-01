@@ -11,7 +11,7 @@ Implementar um sistema de controle PID para equilibrar uma bolinha sobre uma pla
 - 1 x Servomotor
 - 1 x Sensor de posição (sensor ultrassônico)
 - Platafora de papelão e cola quente.
-- Componentes eletrônicos adicionais (fios, resistores, etc.)
+- Componentes eletrônicos adicionais (fios, resistores, bateria)
 
 ## 🖼️ Fotos do Projeto
 
