@@ -13,6 +13,10 @@ Implementar um sistema de controle PID para equilibrar uma bolinha sobre uma pla
 - Platafora de papelão e cola quente.
 - Componentes eletrônicos adicionais (fios, resistores, bateria)
 
+## 📐 Esquema Eletrônico
+
+Confira o projeto no Tinkercad clicando [aqui](https://www.tinkercad.com/things/3u3tynL4MZY-pid-ball?sharecode=vPQNCwW3k5mzyC0wkryjHGs4Zh8dpo4prxrz84mHo7Y).
+
 ## 🖼️ Fotos do Projeto
 
 ![Vista Frontal](assets/20241211_165748.jpg)
